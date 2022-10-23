@@ -1,7 +1,8 @@
 <h1 align="center">HELLO 👋, I'm SHAIK.MAHAMOODA SULTANA</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
+<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/115098044/197383448-460ebb30-56bc-417e-8845-942fa6233f16.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamooda182002&label=Profile%20views&color=0e75b6&style=flat" alt="mahamooda182002" /> </p>
 
